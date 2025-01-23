@@ -5,7 +5,7 @@
 Je suis Emilie Blanc, graphiste spé. print en alternance à DocPro.
 
 ## Mon CV 📄
-Vous pouvez consulter mon CV ici : [cv.md](./cv.md).
+
 </p>
 
 ##Formations
